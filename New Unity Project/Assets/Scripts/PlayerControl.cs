@@ -26,6 +26,6 @@ public class PlayerControl : MonoBehaviour
         {
             facing = 1;
         }
-        anim.SetInteger("facing", facing);
+        anim.SetInteger("facing", facing); //Commentaire de test
     }
 }
